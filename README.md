@@ -25,7 +25,7 @@ Sobre mim:
 - Técnico em Gerenciamento de Projetos Certificado pelo PMI (Certificação CAPM). 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 Atualmente estou aprendendo HTML, CSS, Javascript, Git, Github
-- :stuck_out_tongue: Idiomas: Brazilian Portuguese, English
+- :stuck_out_tongue: Idiomas: Português, Inglês
 - 📫 Contato: https://linktr.ee/leonardo.carneiro
 
 <!--
