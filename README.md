@@ -1,14 +1,11 @@
 ### Hi there 👋 I'm Leonardo
 
-I love technology!
-
 <!--
 **leonardocarneiro084/leonardocarneiro084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
-
-I've always wanted to be a developer, but I thought it was too hard and avoided this challenge for a long time. Now I decided to jump in and dedicate a share of my time to it. I'm currently studying with Rocketseat Stelar Guide and joined Discover Marathon.
+I love tech! I've always wanted to be a developer, but I thought it was too hard and avoided this challenge for a long time. Now I decided to jump in and dedicate a share of my time to it. I'm currently studying with Rocketseat Stelar Guide and joined Discover Marathon.
 
 About me:
 - IT tech degree
@@ -20,9 +17,7 @@ About me:
 
 ### Olá 👋 Me chamo Leonardo
 
-Sou apaxionado por tecnologia.
-
-Sempre quis programar, mas achava muito difícil e evitei este desafio por muito tempo. Mas agora resolvi encarar e dedico parte do meu tempo a isso. Atualmente estudo pelos Guias Estelares da Rocketseat e participo da Maratona Discover da Rocketseat.
+Sou apaxionado por tecnologia. Sempre quis programar, mas achava muito difícil e evitei este desafio por muito tempo. Mas agora resolvi encarar e dedico parte do meu tempo a isso. Atualmente estudo pelos Guias Estelares da Rocketseat e participo da Maratona Discover da Rocketseat.
 
 Sobre mim:
 - Tecnólogo em Redes de Computadores
