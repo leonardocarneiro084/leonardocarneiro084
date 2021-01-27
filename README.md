@@ -8,7 +8,7 @@ Education background:
 - TOEFL exam - advanced/fluent English speaking/writing skills
 - 🌱 I’m currently learning HTML, CSS, Javascript, Git, Github
 - :stuck_out_tongue: Languages: Brazilian Portuguese, English
-- 📫 How to reach me: <a href="https://linktr.ee/leonardo.carneiro" title="Linktree"><img src="https://img.shields.io/badge/Click-Linktree-success"> </a> <a href="mailto:leonardo.carneiro084@gmail.com" title="Email"><img src="https://img.shields.io/badge/Click-Gmail-red"></a>
+- 📫 How to reach me: <a href="https://linktr.ee/leonardo.carneiro" title="Linktree" target="_blank"><img src="https://img.shields.io/badge/Click-Linktree-success"> </a> <a href="mailto:leonardo.carneiro084@gmail.com" title="Email"><img src="https://img.shields.io/badge/Click-Gmail-red"></a>
 
 ## Olá 👋 Me chamo Leonardo
 
@@ -20,7 +20,7 @@ Sobre mim:
 - Técnico em Gerenciamento de Projetos Certificado pelo PMI (Certificação CAPM). 
 - 🌱 Atualmente estou aprendendo HTML, CSS, Javascript, Git, Github
 - :stuck_out_tongue: Idiomas: Português, Inglês
-- 📫 Contato: <a href="https://linktr.ee/leonardo.carneiro" title="Linktree"><img src="https://img.shields.io/badge/Clique-Linktree-success"> </a> <a href="mailto:leonardo.carneiro084@gmail.com" title="Email"><img src="https://img.shields.io/badge/Clique-Gmail-red"></a>
+- 📫 Contato: <a href="https://linktr.ee/leonardo.carneiro" title="Linktree" target="_blank"><img src="https://img.shields.io/badge/Clique-Linktree-success"> </a> <a href="mailto:leonardo.carneiro084@gmail.com" title="Email"><img src="https://img.shields.io/badge/Clique-Gmail-red"></a>
 
 <!--
 
