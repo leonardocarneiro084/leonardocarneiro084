@@ -14,7 +14,7 @@ Education background:
 
 Sou apaxionado por tecnologia. Sempre quis programar, mas achava muito difícil e evitei este desafio por muito tempo. Mas agora resolvi encarar e dedico parte do meu tempo a isso. Atualmente estudo pelos Guias Estelares da Rocketseat e participo da Maratona Discover da Rocketseat.
 
-Sobre mim:
+Educação:
 - Tecnólogo em Redes de Computadores
 - Exame TOEFL - Inglês avançado/fluente. 
 - Técnico em Gerenciamento de Projetos Certificado pelo PMI (Certificação CAPM). 
