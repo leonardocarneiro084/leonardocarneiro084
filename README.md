@@ -1,21 +1,16 @@
-### Hi there 👋 I'm Leonardo
+## Hi there 👋 I'm Leonardo
 
-<!--
-**leonardocarneiro084/leonardocarneiro084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love tech! I've always wanted to be a developer, but I used to think it was too hard and avoided this challenge for a long time. Now I decided to jump in and dedicate a share of my time to it. I'm currently studying with Rocketseat Stelar Guide and joined Discover Marathon.
 
-Here are some ideas to get you started: -->
-
-I love tech! I've always wanted to be a developer, but I thought it was too hard and avoided this challenge for a long time. Now I decided to jump in and dedicate a share of my time to it. I'm currently studying with Rocketseat Stelar Guide and joined Discover Marathon.
-
-About me:
-- IT tech degree
+Education background:
+- Computer Networking tech degree
 - Certified Associate in Project Management (CAPM - PMI)
 - TOEFL exam - advanced/fluent English speaking/writing skills
 - 🌱 I’m currently learning HTML, CSS, Javascript, Git, Github
 - :stuck_out_tongue: Languages: Brazilian Portuguese, English
-- 📫 How to reach me: https://linktr.ee/leonardo.carneiro
+- 📫 How to reach me: <a href="https://linktr.ee/leonardo.carneiro" title="Linktree">Linktree</a> <a href="mailto:leonardo.carneiro084@gmail.com" title="Email">Email</a>
 
-### Olá 👋 Me chamo Leonardo
+## Olá 👋 Me chamo Leonardo
 
 Sou apaxionado por tecnologia. Sempre quis programar, mas achava muito difícil e evitei este desafio por muito tempo. Mas agora resolvi encarar e dedico parte do meu tempo a isso. Atualmente estudo pelos Guias Estelares da Rocketseat e participo da Maratona Discover da Rocketseat.
 
@@ -23,10 +18,9 @@ Sobre mim:
 - Tecnólogo em Redes de Computadores
 - Exame TOEFL - Inglês avançado/fluente. 
 - Técnico em Gerenciamento de Projetos Certificado pelo PMI (Certificação CAPM). 
-<!-- - 🔭 I’m currently working on ... -->
 - 🌱 Atualmente estou aprendendo HTML, CSS, Javascript, Git, Github
 - :stuck_out_tongue: Idiomas: Português, Inglês
-- 📫 Contato: https://linktr.ee/leonardo.carneiro
+- 📫 Contato: <a href="https://linktr.ee/leonardo.carneiro" title="Linktree">Linktree</a> <a href="mailto:leonardo.carneiro084@gmail.com" title="Email">Email</a>
 
 <!--
 
